@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 8884737bd00bee243a8fd3c959814d75
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fence1
+    100004: Floor
+    100006: GateWall
+    100008: Gun
+    100010: Lamp
+    100012: Man
+    100014: SjoerdToren
+    100016: SmallStones
+    100018: Sniper
+    100020: StandForWatchTower
+    100022: StonesGroup1
+    100024: StonesGroup2
+    100026: Tower
+    100028: Wall
+    100030: WatchTowerJasper
+    400000: //RootNode
+    400002: Fence1
+    400004: Floor
+    400006: GateWall
+    400008: Gun
+    400010: Lamp
+    400012: Man
+    400014: SjoerdToren
+    400016: SmallStones
+    400018: Sniper
+    400020: StandForWatchTower
+    400022: StonesGroup1
+    400024: StonesGroup2
+    400026: Tower
+    400028: Wall
+    400030: WatchTowerJasper
+    2100000: Mud
+    2100002: DarkStone
+    2100004: LampMetal
+    2100006: LampMetal2
+    2100008: LampEmissive
+    2100010: LampTube
+    2100012: SjoerdTurretFrame
+    2100014: SjoerdTurret
+    2100016: SjoerdTurretGun
+    2100018: BarbedWire
+    2100020: TorenJasperBeams
+    2100022: TorenJasperWood
+    2100024: TorenJasperPoles
+    2100026: TorenJasperMetalPlates
+    2100028: Rocks
+    2100030: Gate2
+    2100032: FenceSupports
+    2100034: Fence
+    2100036: Walls
+    2300000: Fence1
+    2300002: Floor
+    2300004: GateWall
+    2300006: Gun
+    2300008: Lamp
+    2300010: Man
+    2300012: SmallStones
+    2300014: Sniper
+    2300016: StandForWatchTower
+    2300018: StonesGroup1
+    2300020: StonesGroup2
+    2300022: Tower
+    2300024: Wall
+    2300026: WatchTowerJasper
+    3300000: Fence1
+    3300002: Floor
+    3300004: GateWall
+    3300006: Gun
+    3300008: Lamp
+    3300010: Man
+    3300012: SmallStones
+    3300014: Sniper
+    3300016: StandForWatchTower
+    3300018: StonesGroup1
+    3300020: StonesGroup2
+    3300022: Tower
+    3300024: Wall
+    3300026: WatchTowerJasper
+    4300000: Floor
+    4300002: StandForWatchTower
+    4300004: Lamp
+    4300006: Tower
+    4300008: Man
+    4300010: Gun
+    4300012: WatchTowerJasper
+    4300014: GateWall
+    4300016: Fence1
+    4300018: Wall
+    4300020: SmallStones
+    4300022: StonesGroup1
+    4300024: StonesGroup2
+    4300026: Sniper
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BarbedWire
+    second: {fileID: 2100000, guid: 876c37e9b26a65142b1ccddf14f51a8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DarkStone
+    second: {fileID: 2100000, guid: 00d9c984c6edb2b48bea84dbd399d553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence
+    second: {fileID: 2100000, guid: 0afbe690f965dd14abdb8c85f4d208a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FenceSupports
+    second: {fileID: 2100000, guid: 8a34254323258f6419b6fb5eb5eeb150, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gate2
+    second: {fileID: 2100000, guid: 535f6dbe4fc5ed94386a7717418c9aed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LampEmissive
+    second: {fileID: 2100000, guid: a06b3825efc596c4996538df454cee72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LampMetal
+    second: {fileID: 2100000, guid: 2546c278f21494b459e0983a1cf3d011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LampMetal2
+    second: {fileID: 2100000, guid: 78a7a2ee5af1aff4d8cc762383720e31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LampTube
+    second: {fileID: 2100000, guid: 1eb9f6b223127d842a063403f47bcd18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mud
+    second: {fileID: 2100000, guid: b1f44e1b74134eb4fb93705cd8f7fe81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rocks
+    second: {fileID: 2100000, guid: 9d8b1e85215e4ce46981b77ba86a2b15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SjoerdTurret
+    second: {fileID: 2100000, guid: 6be0c9c8af187174395ac848a7e7c899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SjoerdTurretFrame
+    second: {fileID: 2100000, guid: 70b3a0ea2ed3c87418fc50a3f26689f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SjoerdTurretGun
+    second: {fileID: 2100000, guid: a4dbb91574d0ecc4bbfe932981ac8fe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TorenJasperBeams
+    second: {fileID: 2100000, guid: 513cbdd6c78a23d498e431352473bf51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TorenJasperMetalPlates
+    second: {fileID: 2100000, guid: 92495117d8befa34c8ba8e9ad881069a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TorenJasperPoles
+    second: {fileID: 2100000, guid: 5e7689ce80acbc9439a3eceb9327a64c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TorenJasperWood
+    second: {fileID: 2100000, guid: 996e3f303b5820c418caa3164e7344db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2100000, guid: 8cc28b78f28a02e4496198221d374d27, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
